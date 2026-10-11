@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/redio/commit/6f3eab2071c5f0d1915f6c6bfc5c468e3c29933c",
       "git:hexsha": "6f3eab2071c5f0d1915f6c6bfc5c468e3c29933c",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.5.2"
     },
     {
