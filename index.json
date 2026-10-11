@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "redio",
+  "versions": [
+    {
+      "commit": "6f3eab2071c5f0d1915f6c6bfc5c468e3c29933c",
+      "tag": "v0.5.2",
+      "parsed_at": "2026-10-11T20:58:28.075530+00:00"
+    }
+  ]
+}
