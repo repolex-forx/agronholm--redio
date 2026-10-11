@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "redio",
+  "versions": [
+    {
+      "commit": "6f3eab2071c5f0d1915f6c6bfc5c468e3c29933c",
+      "parsed_at": "2026-10-11T20:56:30.650966+00:00",
+      "tag": "v0.5.2",
+      "filetree": "filetree/6f3eab2071c5f0d1915f6c6bfc5c468e3c29933c.nq.gz",
+      "blobs": [
+        "blob/3d2fbbfb0ee4c4e445ed3da3e7870651b6f61dac.nq.gz",
+        "blob/45f838db1f49bbb57a3f541c9582bc86ea1a0c97.nq.gz",
+        "blob/e7e9c734ead5a9b397fa3243cad0e0ff5fc7694b.nq.gz",
+        "blob/a8e6db5716303cf086538cf9e5147af96512dfdb.nq.gz",
+        "blob/e03b736ffda76dc1cfcb0b353f85d9ea347eae36.nq.gz",
+        "blob/59e8edf8129db05fa695355b16fa338f44ab3903.nq.gz",
+        "blob/a895fcd4716b45d72486b296f3e71e5f16bf92f4.nq.gz",
+        "blob/7e23b476604c3262a7d03ef786f2ee35c38b04cd.nq.gz",
+        "blob/ac7abfd996433837f2069eb73ba35dc62161bb8a.nq.gz",
+        "blob/568731953544440525e504e1116092640125990b.nq.gz",
+        "blob/5f4a13a225db317dbb3f4cb3ca1e5dc5b10eec2a.nq.gz",
+        "blob/42d6e3c9b7272cd2e64bb1310c1a555c27993ccc.nq.gz",
+        "blob/7ef978cd686dfe74d31d64041765154d55cce559.nq.gz",
+        "blob/81dc3fd3ee0b9dc7c510e3f310d0b0f48c91ded2.nq.gz",
+        "blob/9b7f56b8f79c876b2eb8632b9f5f8ba5c41a7bb3.nq.gz",
+        "blob/bb5902dbe7c80bc34c5eb5ad5731abaa1569296f.nq.gz",
+        "blob/71e28bab1a52e90cf9e087cf021ce9aeb0cc8da2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
